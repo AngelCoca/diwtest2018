@@ -8,4 +8,4 @@ Desarrollo de aplicaciones web
 2018-2019
 
 ## Lenguajes
-C#
+C#, HTML
